@@ -1,0 +1,5 @@
+URL SHORTENER API LIBRARY DOCUMENTATION
+-------------------------------------------------
+
+The Online Documeatation could be found at:
+http://url.theultrasoft.com/apidocs/index.php
