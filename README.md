@@ -7,3 +7,4 @@ The RESTful API can be used to any application.
 Our PHP wrapper will help developers to integrate this shortening service within just munites.
 
 Website: http://url.theultrasoft.com
+API Documentation: http://url.theultrasoft.com/apidocs/index.php
